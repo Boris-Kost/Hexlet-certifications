@@ -14,4 +14,4 @@
 node bin/plants.js __fixtures__/flora.csv
 ```
 
-Тесты  написаны на Jest
+Тесты написаны на Jest
